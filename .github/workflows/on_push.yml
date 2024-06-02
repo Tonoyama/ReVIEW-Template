@@ -13,7 +13,6 @@ jobs:
       with:
         repository: Tonoyama/ReVIEW-Template
         token: ${{ secrets.PAT }}
-        path: articles
     - uses: docker://vvakame/review:5.8
       with:
         entrypoint: bash
