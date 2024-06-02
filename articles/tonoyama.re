@@ -2,8 +2,6 @@
 
 GitHub Actions test
 
-//pagebreak
-
 == まずは、MUTをインストール
 
 仮想マシン必須。
