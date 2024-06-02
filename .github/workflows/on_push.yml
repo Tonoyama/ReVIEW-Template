@@ -20,4 +20,4 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: tonoyama
-        path: articles/articles.pdf
+        path: pdf-sample/Test-Tonoyama.pdf

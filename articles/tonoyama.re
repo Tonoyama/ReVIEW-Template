@@ -1,6 +1,6 @@
 = Arch Linuxをやってみよう
 
-Archはいいぞー
+GitHub Actions test
 
 //pagebreak
 
